@@ -162,6 +162,8 @@ Agregar captura aquí.
 
 Espacio para comentarios, dificultades encontradas, mejoras implementadas o aprendizajes obtenidos durante el desarrollo del laboratorio.
 
+Explicar mas a detalle como se utiliza la plataforma GitHub. Se me dificulto tratar de entender como se usa.
+
 ---
 
 ## 📄 Licencia
